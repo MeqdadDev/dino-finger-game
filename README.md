@@ -94,7 +94,6 @@ while True:
         break
 ```
 
-When the selected finger crosses the green top line, it takes an `up` action, and if the selected finger crosses the green bottom line, it takes `down` action.
 If the chosen finger crosses the upper green line, it performs an `up` action, and if the selected finger crosses the lower green line, it performs a `down` action.
 
 **Happy T-Rexing**
